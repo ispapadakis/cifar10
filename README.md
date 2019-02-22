@@ -1,7 +1,13 @@
-# cifar10
+# CIFAR-10
 Small Image Detection Models
+<p>[Data Source:](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Jupyter Notebooks
-- [Covnet](cifar10_COVNET_no_noise.ipynb) (Accuracy: 92%)
-- ResNetv1(20) (Accuracy: 91.5%)
-- ResNetv2(22) (Accuracy: 93.3%)
+- [Covnet Using Data Augmentation](cifar10_COVNET_no_noise.ipynb) (Accuracy: 92.16%)
+- [ResNetv1(20)](CIFAR_10_RESNETv1b_No_Noise.ipynb) (Accuracy: 91.83%)
+- [ResNetv2(29)](CIFAR_10_RESNETv2c_No_Noise.ipynb) (Accuracy: 93.26%)
+
+## Model Files
+- Architecture
+- Weights
+<p>TBD
