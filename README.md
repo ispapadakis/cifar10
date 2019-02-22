@@ -1,5 +1,5 @@
 # CIFAR-10
-Small Image Detection Models
+Small Image Detection Models Using Deep Learning
 <p>[Data Source:](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Jupyter Notebooks
