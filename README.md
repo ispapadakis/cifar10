@@ -10,4 +10,18 @@ Small Image Detection Models Using Deep Learning
 ## Model Files
 - Architecture
 - Weights
+
+<p> To be read as follows:
+  
+  
+```python
+json_string = pickle.load(open('covnet_model_json.pkl',"rb"))
+model = keras.models.model_from_json(json_string)
+
+model.compile(
+   loss='categorical_crossentropy', 
+   optimizer=keras.optimizers.Adam(), 
+   metrics=['accuracy']
+)
+```
 <p>TBD
