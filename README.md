@@ -1,13 +1,13 @@
-# CIFAR-10
+Alt-H1 CIFAR-10
 Small Image Detection Models Using Deep Learning
 <p>[Data Source:](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-1. Jupyter Notebooks
+# Jupyter Notebooks
 - [Covnet Using Data Augmentation](cifar10_COVNET_no_noise.ipynb) (Accuracy: 92.16%)
 - [ResNetv1(20)](CIFAR_10_RESNETv1b_No_Noise.ipynb) (Accuracy: 91.83%)
 - [ResNetv2(29)](CIFAR_10_RESNETv2c_No_Noise.ipynb) (Accuracy: 93.26%)
 
-1. Model Files
+# Model Files
 - Covnet:
   - Architecture: [covnet_model_json.pkl](covnet_model_json.pkl)
   - Weights: TBD
