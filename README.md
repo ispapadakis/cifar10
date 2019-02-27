@@ -20,6 +20,9 @@ Small Image Detection Models Using Deep Learning
 <p> To be read as follows:
 
 ```python
+import pickle
+import keras
+
 # A) Read Model Architecture
 json_string = pickle.load(open('/Path/To/Work/Folder/covnet_model_json.pkl',"rb"))
 model = keras.models.model_from_json(json_string)
@@ -36,4 +39,3 @@ model.load_weights('/Path/To/Work/Folder/cifar10-covnet-cutout.h5')
 # C) Use model for prediction / evaluation, e.g.:
 model.evaluate(x_test,y_test)
 ```
-<p>TBD
