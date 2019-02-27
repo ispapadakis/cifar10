@@ -10,7 +10,12 @@ Small Image Detection Models Using Deep Learning
 ## Model Files
 - Covnet:
   - Architecture: [covnet_model_json.pkl](covnet_model_json.pkl)
-  - Weights: TBD
+  - Weights: [cifar10-covnet-cutout-acc9281.h5](cifar10-covnet-cutout-acc9281.h5)
+  
+- ResNetv2(29):
+  - Architecture: [ResNet29v2_model_json.pkl](ResNet29v2_model_json.pkl)
+  - Weights: [cifar10-resnet2-acc9309.h5](cifar10-resnet2-acc9309.h5)
+
 
 <p> To be read as follows:
 
