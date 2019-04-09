@@ -7,7 +7,7 @@ Small Image Detection Models Using Deep Learning
 - [ResNetv1(20)](CIFAR_10_RESNETv1b_No_Noise.ipynb) (Accuracy: 91.83%)
 - [ResNetv2(29)](CIFAR_10_RESNETv2c_No_Noise.ipynb) (Accuracy: 93.26%)
 - [ResNetv2(20) Using "Super Convergence" Optimizer Schedule A](CIFAR10_ResNet20_SuperConvergence_A.ipynb) (Accuracy: 93.46%)
-- [ResNetv2(20) Using "Super Convergence" Optimizer Schedule B](CIFAR10_ResNet20_SuperConvergence_B.ipynb) (Accuracy: 93.58%)
+- [ResNetv1(20) Using "Super Convergence" Optimizer Schedule B](CIFAR10_ResNet20_SuperConvergence_B.ipynb) (Accuracy: 93.58%)
 
 ## Model Files
 - Covnet [Validation Accuracy: 0.9281]:
